@@ -1,2 +1,2 @@
-# GRS MA 684: Applied Multiple Regression and Multivariable Methods
-Application of multivariate data analytic techniques. Multiple regression and correlation, confounding and interaction, variable selection, categorical predictors and outcomes, logistic regression, factor analysis, MANOVA, discriminant analysis, regression with longitudinal data, repeated measures, ANOVA. This course cannot be taken for credit in addition to the course with the same title that was previously numbered CAS MA 684.
+# GRS MA 685: Advanced Topics in Applied Statistical Analysis
+Continues topics of GRS MA 684 at a more advanced level. Canonical correlation, multivariate analysis of variance, multivariate regressions. Categorical dependent variables techniques; discriminant analysis, logistic regression, log-linear analysis. Factor analysis; principal-axes, rotations, factor scores. Cluster analysis. Power analysis. Extensive use of statistical software. 
